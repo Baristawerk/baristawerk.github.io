@@ -5,5 +5,6 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
 - jekyll-include-cache
 header:
-  image: /assets/images/header-image.jpg   # Pfad zum Bild
+  overlay: true  # Optional: Bild mit Overlay
+  image: /assets/images/header-image.jpg
   image_position: center  # Bildzentrierung
