@@ -4,3 +4,6 @@ author: marius
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
 - jekyll-include-cache
+header:
+  image: /assets/images/header-image.jpg   # Pfad zum Bild
+  image_position: center  # Bildzentrierung
