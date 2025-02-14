@@ -1,7 +1,6 @@
 header:
-  overlay: true  # Optional: Bild mit Overlay
   image: /assets/images/header-image.jpg
-  image_position: center  # Bildzentrierung
+
 title: Baristawerk
 description: kaffee
 author: marius
