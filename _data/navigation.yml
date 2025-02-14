@@ -1,1 +1,22 @@
+main:
+  - title: "Startseite"
+    url: "/"
+  
+  - title: "Über mich"
+    url: "/about/"
+
+  - title: "Projekte"
+    children:
+      - title: "Webentwicklung"
+        url: "/projects/web/"
+      - title: "Apps"
+        url: "/projects/apps/"
+      - title: "Design"
+        url: "/projects/design/"
+
+  - title: "Blog"
+    url: "/blog/"
+
+  - title: "Kontakt"
+    url: "/contact/"
 
