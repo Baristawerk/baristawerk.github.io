@@ -1,4 +1,3 @@
-
 ---
 layout: home
 title: "Meine Website"
@@ -7,5 +6,3 @@ header:
   overlay_filter: 0.5
   caption: "Mein Header"
 ---
-
-
