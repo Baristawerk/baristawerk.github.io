@@ -1,9 +1,9 @@
 main:
   - title: "Menü"
     sublinks:
-      - title: "Kurse"
+      - title: "Home"
         url: "/"
-      - title: "Catering"
+      - title: "Über uns"
         url: "/about/"
-      - title: "Einstellung deiner Maschine"
+      - title: "Kontakt"
         url: "/contact/"
