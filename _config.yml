@@ -1,10 +1,3 @@
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
-header:
-  overlay_image: "https://raw.githubusercontent.com/Baristawerk/baristawerk.github.io/refs/heads/main/assets/images/header-image.jpg"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
 
 title: "  "
 description: kaffee
@@ -14,7 +7,7 @@ plugins:
 - jekyll-include-cache
 minimal_mistakes_skin: "default"
 
-include: ["_styles"]
-
-header_nav: []
+include: ["_styles"] 
+header_nav:
+  - main
 
