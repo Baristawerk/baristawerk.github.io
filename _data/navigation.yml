@@ -1,1 +1,10 @@
 main: []
+main:
+  - title: "Menü"
+    sublinks:
+      - title: "Kurse"
+        url: "/"
+      - title: "Catering"
+        url: "/about/"
+      - title: "Einstellung deiner Maschine"
+        url: "/contact/"
