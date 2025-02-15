@@ -1,17 +1,17 @@
 main:
-  - title: "Startseite"
+  - title: "Home"
     url: "/"
   
-  - title: "Über mich"
+  - title: "About"
     url: "/about/"
 
-  - title: "Projekte"
+  - title: "Angebot"
     children:
-      - title: "Webentwicklung"
+      - title: "Catering"
         url: "/projects/web/"
-      - title: "Apps"
+      - title: "Kurse"
         url: "/projects/apps/"
-      - title: "Design"
+      - title: "Einstellung eurer Maschine"
         url: "/projects/design/"
 
   - title: "Blog"
