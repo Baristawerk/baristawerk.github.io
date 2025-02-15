@@ -6,7 +6,7 @@ header:
     - label: "More Info"
       url: "https://unsplash.com"
 
-title: 
+title: " "
 description: kaffee
 author: marius
 remote_theme: "mmistakes/minimal-mistakes"
